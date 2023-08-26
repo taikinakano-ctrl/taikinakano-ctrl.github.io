@@ -1,0 +1,15 @@
+main:
+  # - title: "About"
+  #   url: /about/
+  - title: "Home"
+    url: /
+  - title: "Researches"
+    url: /researches/
+  - title: "CV"
+    url: /cv/
+  - title: "Others"
+    url: /others/
+  - title: "Blog"
+    url: /blog/
+  # - title: "Japanese"
+  #   url: /jp/
