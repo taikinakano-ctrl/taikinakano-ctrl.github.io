@@ -32,6 +32,7 @@ github_username:  taiyaki-taiki
 # Build settings
 # theme: minima
 remote_theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   # - jekyll-pdf
