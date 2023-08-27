@@ -1,6 +1,7 @@
 ---
 permalink: /research/
 layout: home
+classes: wide
 ---
 
 # Journals
