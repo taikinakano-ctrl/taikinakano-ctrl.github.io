@@ -1,7 +1,8 @@
 ---
-layout: home
+layout: splash
 permalink: /
 author_profile: true
+classes: wide
 ---
 
 I am a master student at [the System Control Laboratory](https://www.scl.ipc.i.u-tokyo.ac.jp) 
