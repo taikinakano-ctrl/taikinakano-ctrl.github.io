@@ -46,7 +46,7 @@ paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 author:
-  name     : "Taiki Nakano (仲野 太喜)"
+  name     : "Taiki Nakano"
   avatar   : "./assets/images/bio-photo-2.png"
   bio      : "Master's student at the University of Tokyo"
   location : "Tokyo, Japan"
