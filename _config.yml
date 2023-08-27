@@ -29,7 +29,7 @@ github_username:  taikinakano-ctrl
 
 # Build settings
 # theme: minima
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes@4.24.0
 # theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
