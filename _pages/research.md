@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-layout: home
+layout: single
 author_profile: true
 classes: wide
 ---
