@@ -48,7 +48,7 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 author:
   name     : "Taiki Nakano"
   avatar   : "./assets/images/bio-photo-2.png"
-  bio      : "Master's student @UTokyo"
+  # bio      : "Master's student @UTokyo"
   location : "Tokyo, Japan"
   # email: taikinakano@g.ecc.u-tokyo.ac.jp
   links:
