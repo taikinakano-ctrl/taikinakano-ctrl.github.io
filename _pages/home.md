@@ -4,7 +4,9 @@ permalink: /
 author_profile: true
 classes: wide
 ---
+
 # About me
+
 I am a master's student at the [System Control Laboratory](https://www.scl.ipc.i.u-tokyo.ac.jp) 
 at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) under the supervision of 
 [Prof. Masayuki Fujita](http://www.fl.ctrl.titech.ac.jp/member/fujita/fujitae.html).

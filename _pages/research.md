@@ -1,10 +1,12 @@
 ---
 permalink: /research/
 layout: home
+author_profile: true
 classes: wide
 ---
 
 # Journals
+
 1. Optimality of “Stubborn Strategy” in Bilateral Automatic Negotiation (Taiki Nakano, Koji Tsumura)
 2. 
 
