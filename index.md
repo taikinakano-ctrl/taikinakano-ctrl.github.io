@@ -20,18 +20,17 @@ at [Automatic Control Lab (IfA)](https://control.ee.ethz.ch/).
 I received the B.S. degree in mathematical engineering and information physics from the University of Tokyo, Japan, in 2022.
 
 
-## Research Interests
+<!-- ## Research Interests
 
 I am interested in Systems and Control and fascinated with its versatility and elegance.
 I am enjoying learning about control in various scientific/engineering fields and 
-I hope that I could get a "systematic” viewpoint of the world 🌍
+I hope that I could get a "systematic” viewpoint of the world 🌍 -->
 
 ## Research Topics
 
 I am interested in theoretical aspects of control theory, which includes:
-- Data-driven control
-- Learning-based control
-- Control of multi-agents systems
+- Data-driven / Learning-based control
+- Control of multi-agents systems.
 
 <!-- The researches can be seen from [here](./researches). -->
 
