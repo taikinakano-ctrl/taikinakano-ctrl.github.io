@@ -1,5 +1,5 @@
 ---
-permalink: /researches/
+permalink: /research/
 layout: home
 ---
 

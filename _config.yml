@@ -21,13 +21,11 @@
 title: Taiki Nakano's Webpage
 email: taikinakano@g.ecc.u-tokyo.ac.jp
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: taiki__nakano
-github_username:  taiyaki-taiki
+github_username:  taikinakano-ctrl
 
 # Build settings
 # theme: minima
@@ -49,9 +47,9 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 author:
   name     : "Taiki Nakano (仲野 太喜)"
-  avatar   : "./assets/images/bio-photo.png"
-  bio      : "Master's student @UTokyo, Exchange @ETH Zürich"
-  location : "Zürich, Switzerland"
+  avatar   : "./assets/images/bio-photo-2.png"
+  bio      : "Master's student at the University of Tokyo"
+  location : "Tokyo, Japan"
   # email: taikinakano@g.ecc.u-tokyo.ac.jp
   links:
     # - label: "Email"

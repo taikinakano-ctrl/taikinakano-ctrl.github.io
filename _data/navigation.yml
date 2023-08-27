@@ -3,12 +3,12 @@ main:
   #   url: /about/
   - title: "Home"
     url: /
-  - title: "Researches"
+  - title: "Research"
     url: /researches/
   - title: "CV"
     url: /cv/
-  - title: "Others"
-    url: /others/
+  # - title: "Others"
+  #   url: /others/
   - title: "Blog"
     url: /blog/
   # - title: "Japanese"
