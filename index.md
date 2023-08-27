@@ -5,9 +5,9 @@ author_profile: true
 classes: wide
 ---
 
-# 
+# About me
 
-## About me
+## Short Bio
 
 I am a master's student at the [System Control Laboratory](https://www.scl.ipc.i.u-tokyo.ac.jp) 
 at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) under the supervision of 
