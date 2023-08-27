@@ -5,7 +5,7 @@ author_profile: true
 classes: wide
 ---
 
-# About me
+<!-- # About me -->
 
 ## Short Bio
 
