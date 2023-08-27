@@ -3,13 +3,13 @@ main:
   #   url: /about/
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
-  - title: "CV"
-    url: /cv/
+  # - title: "Research"
+  #   url: /research/
+  # - title: "CV"
+  #   url: /cv/
   # - title: "Others"
   #   url: /others/
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
   # - title: "Japanese"
   #   url: /jp/
