@@ -49,7 +49,7 @@ author:
   name     : "Taiki Nakano"
   avatar   : "./assets/images/bio-photo-2.png"
   # bio      : "Master's student @UTokyo"
-  location : "Tokyo, Japan"
+  # location : "Tokyo, Japan"
   # email: taikinakano@g.ecc.u-tokyo.ac.jp
   links:
     # - label: "Email"
