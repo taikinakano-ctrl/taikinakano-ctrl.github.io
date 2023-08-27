@@ -12,7 +12,12 @@ classes: wide
 I am a master's student at the [System Control Laboratory](https://www.scl.ipc.i.u-tokyo.ac.jp) 
 at the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) under the supervision of 
 [Prof. Masayuki Fujita](http://www.fl.ctrl.titech.ac.jp/member/fujita/fujitae.html).
+I was an exchange student at [ETH Zürich](https://ethz.ch/en.html) from 2022 to 2023 and did student projects
+under the guidance of [Prof. Melanie Zeilinger](https://idsc.ethz.ch/the-institute/people/person-detail.MTQyNzM3.TGlzdC82MjMsMjA4ODk3NDEzOQ==.html) at the Institute for Dynamic Systems and Control
+and [Prof.John Lygeros](https://control.ee.ethz.ch/people/profile.john-lygeros.html)
+at Automatic Control Lab.
 I received the B.S. degree in mathematical engineering and information physics from the University of Tokyo, Japan, in 2022.
+
 
 ## Research Interests
 
