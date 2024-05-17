@@ -1,0 +1,112 @@
+@charset "UTF-8";
+
+body{
+    max-width: 960px;
+    margin: auto;
+    background-color: #f0f8ff;
+    overflow-wrap: break-word;
+    font-size: 115%;
+}
+
+* {
+    font-family:'Helvetica';
+    /* font-family: 'Agdasima'; */
+   }
+
+/* h1 {
+    font-size: 120%;
+} */
+
+/* h2 {
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+/* h3 {
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+/* p {
+    border-style: groove;
+    background-color:ghostwhite;
+} */
+
+/* ul {
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+
+a:link {
+    color: #265301;
+}
+
+a:visited {
+    color: #265301;
+}
+
+a:focus {
+    border-bottom: 1px solid;
+    background: #bae498;
+}
+
+a:hover {
+    border-bottom: 1px solid;
+    background: #cdfeaa;
+}
+
+a:active {
+    background: #265301;
+    color: #cdfeaa;
+}
+
+.main-nav {
+    display: flex;
+    list-style: none;
+    column-gap: 40px;
+    top: 0;
+    left: 0;
+    align-items: center;
+}
+
+.page-header {
+    display: flex;
+    position: sticky;
+    justify-content:  space-between;
+    align-items: center;
+    height:60px;
+    padding: 0 30px;
+}
+
+.image-taikinakano {
+    width: 210px;
+}
+
+.education-jp {
+    list-style:circle;
+}
+
+.others-jp {
+    list-style:circle;
+}
+
+.jp{
+    /* font-family: "ヒラギノ明朝 ProN","Hiragino Mincho ProN"; */
+}
+
+.container {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr;
+    column-gap: 50px;
+   }
+
+.image-container {
+    /* float: right; */
+    margin-right: 20px;
+    text-align: right;
+  }
