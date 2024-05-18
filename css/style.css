@@ -3,14 +3,13 @@
 body{
     max-width: 960px;
     margin: auto;
-    background-color: #f0f8ff;
+    background-color: #fff;
     overflow-wrap: break-word;
     font-size: 115%;
 }
 
 * {
     font-family:'Helvetica';
-    /* font-family: 'Agdasima'; */
    }
 
 /* h1 {
@@ -106,7 +105,6 @@ a:active {
    }
 
 .image-container {
-    /* float: right; */
     margin-right: 20px;
     text-align: right;
   }
