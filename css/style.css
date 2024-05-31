@@ -12,7 +12,8 @@
 } */
 
 * {
-    font-family:'Helvetica';
+    /* font-family:'Helvetica'; */
+    font-family:'Noto Serif', serif;
    }
 
 /* h1 {
