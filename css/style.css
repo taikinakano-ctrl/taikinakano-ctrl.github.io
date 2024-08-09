@@ -13,7 +13,7 @@
 
 * {
     /* font-family:'Helvetica'; */
-    font-family:'Noto Serif', serif;
+    /* font-family:Verdana,Geneva,sans-serif; */
    }
 
 /* h1 {
@@ -87,7 +87,7 @@ a:active {
 }
 
 .image-taikinakano {
-    width: 210px;
+    width: 350px;
 }
 
 .education-jp {
